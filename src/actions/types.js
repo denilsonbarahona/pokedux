@@ -1,0 +1,4 @@
+export const SET_POKEMONS = 'GET_POKEMON'
+export const TOGGLE_LOADER = 'TOGGLE-LOADER'
+export const SET_FAVORITE = 'SET-FAVORITE'
+
